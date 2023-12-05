@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/chapter_1.dir/main.c.o  -o chapter_1 

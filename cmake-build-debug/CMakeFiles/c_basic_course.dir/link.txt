@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/c_basic_course.dir/main.cpp.o  -o c_basic_course 
